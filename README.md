@@ -1,0 +1,2 @@
+# DBMS
+MCQ for dbms .
